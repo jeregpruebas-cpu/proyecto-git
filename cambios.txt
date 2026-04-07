@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Cambio A
+=======
+>>>>>>> 5767f00380e249f28e5b1b860210bdc19b35f126
 Cambio B
